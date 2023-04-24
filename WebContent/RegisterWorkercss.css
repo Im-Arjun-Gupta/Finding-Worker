@@ -1,0 +1,25 @@
+@CHARSET "ISO-8859-1";
+h1{
+  font-family: Calibri; 
+  font-size: 25pt;         
+  font-style: normal; 
+  font-weight: bold; 
+  color:Black;
+  text-align: center; 
+  text-decoration:;
+}
+
+table{
+  font-family: Calibri; 
+  color:white; 
+  font-size: 11pt; 
+  font-style: normal;
+  font-weight: bold;
+  text-align:;  
+  border-collapse: collapse; 
+  border: 0px solid black;
+  
+}
+table.inner{
+  border: 0px;
+}
